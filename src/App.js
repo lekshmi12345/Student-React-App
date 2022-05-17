@@ -8,7 +8,7 @@ import Searchstudent from './Component/Searchstudent';
 function App() {
   return (
     <>
-    
+    <Addstudent/>
     <Searchstudent/>
     </>
   );
